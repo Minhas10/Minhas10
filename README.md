@@ -1,9 +1,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Minhas+Ahmod" alt="Typing SVG" /></a>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&width=435&lines=A+passionate+Full-Stack+Developer+in+Bangladesh+" alt="Typing SVG" /></a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=minhas10&label=Profile%20views&color=0e75b6&style=flat" alt="minhas10" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github.com/Minhas10" alt="minhas10" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/minhas_ahmod" target="blank"><img src="https://img.shields.io/twitter/follow/minhas_ahmod?logo=twitter&style=for-the-badge" alt="minhas10" /></a> </p>
 
