@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minhas10&label=Profile%20views&color=0e75b6&style=flat" alt="minhas10" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=minhas10" alt="minhas10" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github.com/Minhas10" alt="minhas10" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/minhas10" target="blank"><img src="https://img.shields.io/twitter/follow/minhas10?logo=twitter&style=for-the-badge" alt="minhas10" /></a> </p>
+<p align="left"> <a href="https://twitter.com/minhas_ahmod" target="blank"><img src="https://img.shields.io/twitter/follow/minhas_ahmod?logo=twitter&style=for-the-badge" alt="minhas10" /></a> </p>
 
 - 🔭 I’m currently working on **Fit-log-calc**
 
